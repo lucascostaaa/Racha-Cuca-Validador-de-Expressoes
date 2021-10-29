@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31410.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "Tests\Tests.csproj", "{3F61AC79-E5BB-44C8-8622-0824893512B5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValidadorExpressoes", "ValidadorExpressoes\ValidadorExpressoes.csproj", "{70CBAD6D-62A4-4ED7-A8D5-C68D228F5A84}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3F61AC79-E5BB-44C8-8622-0824893512B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F61AC79-E5BB-44C8-8622-0824893512B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F61AC79-E5BB-44C8-8622-0824893512B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F61AC79-E5BB-44C8-8622-0824893512B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70CBAD6D-62A4-4ED7-A8D5-C68D228F5A84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70CBAD6D-62A4-4ED7-A8D5-C68D228F5A84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70CBAD6D-62A4-4ED7-A8D5-C68D228F5A84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70CBAD6D-62A4-4ED7-A8D5-C68D228F5A84}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {42D11965-942C-474B-9AAC-CC50A5B766EF}
+	EndGlobalSection
+EndGlobal
